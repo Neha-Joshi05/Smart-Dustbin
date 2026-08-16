@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Live Demo
-**Simulator** → https://smart-dustbin-simulator.onrender.com
+**Simulator** → https://smart-dustbin-crhn.onrender.com
 
 ---
 
